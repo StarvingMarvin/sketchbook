@@ -1,0 +1,4 @@
+AdvButton	KEYWORD1
+ButtonManager	KEYWORD1
+checkButtons	KEYWORD2
+getPressTime	KEYWORD2
